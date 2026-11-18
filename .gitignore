@@ -1,0 +1,22 @@
+# Dataset (download it yourself, see README)
+data/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local docs and secrets
+.docs/
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
